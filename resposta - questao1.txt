@@ -1,0 +1,2 @@
+RESPOSTA:
+Ao final do processamento o valor da variavel SOMA sera de 91
